@@ -1,0 +1,26 @@
+
+T
+java:S1135"2Complete the task associated to this TODO comment.(ƒ® ϊÿÿÿÿ8ύφρέ/
+\
+java:S1161$":Add the "@Override" annotation above this method signature(Οϋ©Φϋÿÿÿÿ8ÿφρέ/
+…
+java:S1989%"hHandle the following exceptions that could be thrown by "processRequest": ServletException, IOException.(®›ϊ8‚χρέ/
+W
+java:S1161+":Add the "@Override" annotation above this method signature(‹¨―Ώ8‡χρέ/
+
+java:S1989-"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(®Σ‘ϋÿÿÿÿÿ8χρέ/
+T
+java:S1135,"2Complete the task associated to this TODO comment.(» ζÿÿÿÿÿ8‹χρέ/
+h	java:S128;"LEnd this switch case with an unconditional break, return or throw statement.(“—¶•8‘χρέ/
+“
+java:S1130D"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ύω±8•χρέ/
+
+java:S1130D"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ύω±8–χρέ/
+Q
+java:S1172C"/Remove this unused method parameter "response".(±ΧΘ΅όÿÿÿÿ8χρέ/
+™
+java:S1130P"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(›’Ώ°ωÿÿÿÿ8 χρέ/
+
+java:S1130P"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(›’Ώ°ωÿÿÿÿ8 χρέ/
+Q
+java:S1172P"/Remove this unused method parameter "response".(›’Ώ°ωÿÿÿÿ8΅χρέ/
